@@ -1,5 +1,5 @@
 # About Me:
-Hello, My name is Ricardo, i am currently studying Systems Development at Etec Joaquim Ferreira do Amaral 
+My name is Ricardo, i am currently studying Systems Development at Etec Joaquim Ferreira do Amaral 
 
 
 #  Tech Stack:
@@ -11,5 +11,3 @@ Hello, My name is Ricardo, i am currently studying Systems Development at Etec J
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akaricardinho&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
