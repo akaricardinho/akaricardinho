@@ -20,9 +20,10 @@ Olá, me chamo Ricardo, Tenho 16 anos e estou cursando Desenvolvimento de Sistem
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akaricardinho&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akaricardinho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact
+## Outro
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricass_s/)
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](ricamazzo22)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akaricardinho&icon=5&color=11)](https://visitcount.itsvg.in)
