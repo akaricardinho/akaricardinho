@@ -23,7 +23,7 @@ Olá, me chamo Ricardo, Tenho 16 anos e estou cursando Desenvolvimento de Sistem
 ## Outro
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricass_s/)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ricamazzo22)
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/akamazzo)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akaricardinho&icon=5&color=11)](https://visitcount.itsvg.in)
